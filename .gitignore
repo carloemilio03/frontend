@@ -1,9 +1,2 @@
 node_modules/
-.env.local
-.next/
-
-.next/
-node_modules/
-.env.local
-
-*.node
+frontend-clean/
